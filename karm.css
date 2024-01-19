@@ -1,3 +1,29 @@
+
+        h2 {
+            color: #02198B;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
+            font-weight: bold;
+            font-style: italic;
+        }
+
+        p {
+            text-align: justify;
+            font-weight: bold;
+            font-stretch: expanded;
+        }
+
+        img {
+            display: block;
+            margin: 0 auto; 
+
+        }
+
+        nav ul li {
+            display: inline;
+            margin: 0 10px;
+        }
+    
+
 h1 {
     font-style: italic;
     font-weight: bold;
@@ -7,7 +33,7 @@ h1 {
 }
 
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Verdana', 'Geneva', 'Tahoma', sans-serif;
     margin: 0;
     padding: 0;
     background-image: url(black.jpg);
